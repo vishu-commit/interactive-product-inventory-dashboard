@@ -1,0 +1,16 @@
+{
+  "name": "interactive-product-inventory-dashboard",
+  "version": "1.0.0",
+  "description": "A console-based JavaScript mini project for product inventory and analytics.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "inventory",
+    "analytics",
+    "mini-project"
+  ],
+  "license": "MIT"
+}
